@@ -1,0 +1,16 @@
+{
+  "port": 3030,
+  "db_host": "localhost",
+  "db_username": "postgres",
+  "db_password": "050558",
+  "db_port": 5432,
+  "db_name": "bike-rental",
+  "crypt_password": "Very_very_Secret_P@55w0Rd",
+  "iv": "050558az",
+  "secret": "mypassw0rd",
+  "access_key": "newAccessKey",
+  "refresh_key": "newRefrshKey",
+  "access_time": "2m",
+  "refresh_time": "30d",
+  "refresh_ms": 2592000000
+}
